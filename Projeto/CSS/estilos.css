@@ -1,0 +1,43 @@
+marquee {
+     background-color: aqua;
+        color: black;
+        font-size: 25px;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 100;
+        text-align: center;
+      
+        overflow: hidden;
+}
+.cabeca{
+    background-color: aqua;
+    color: black;
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+    padding: 2px;
+    height: 20px;
+    overflow: hidden;
+}
+.corpo {
+    background-color: white;
+    color: black;
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+    padding: 2px;
+    height: 20px;
+    overflow: hidden;
+}
+.rodape {
+    background-color: aqua;
+    color: black;
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+    padding: 2px;
+    height: 20px;
+    overflow: hidden;
+}
